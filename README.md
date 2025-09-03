@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Kassa-code
+- 👋 Hi, I’m @Kasun-Tharanga
 - 👀 I’m interested in ...coding
 - 🌱 I’m currently learning ...Bachelor of Computer Science at University of Colombo
 - 💞️ I’m looking to collaborate on ...
