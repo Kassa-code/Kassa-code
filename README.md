@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning ...Bachelor of Computer Science at University of Colombo
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
+- https://www.linkedin.com/in/kasun-tharanga-dissanayaka-364b391ab/
 
 <!---
 Kassa-code/Kassa-code is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
